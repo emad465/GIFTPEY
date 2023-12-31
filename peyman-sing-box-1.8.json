@@ -87,7 +87,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "giftpeyman.ali5599.wOrkErs.DEv",
+        "server_name": "onearth.roostashahreiran.ir",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -96,7 +96,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "giftpeyman.ali5599.wOrkErs.DEv"
+          "Host": "onearth.roostashahreiran.ir"
         },
         "max_early_data": 2048,
         "path": "/",
@@ -117,7 +117,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "giftpeyman.ali5599.wOrkErs.DEv",
+        "server_name": "onearth.roostashahreiran.ir",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -126,7 +126,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "giftpeyman.ali5599.wOrkErs.DEv"
+          "Host": "onearth.roostashahreiran.ir"
         },
         "max_early_data": 2048,
         "path": "/",
@@ -147,7 +147,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "giftpeyman.ali5599.wOrkErs.DEv",
+        "server_name": "onearth.roostashahreiran.ir",
         "utls": {
           "enabled": true,
           "fingerprint": "randomized"
@@ -156,7 +156,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "giftpeyman.ali5599.wOrkErs.DEv"
+          "Host": "onearth.roostashahreiran.ir"
         },
         "path": "/",
         "type": "ws"
@@ -176,7 +176,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "giftpeyman.ali5599.wOrkErs.DEv",
+        "server_name": "onearth.roostashahreiran.ir",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -185,7 +185,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "giftpeyman.ali5599.wOrkErs.DEv"
+          "Host": "onearth.roostashahreiran.ir"
         },
         "max_early_data": 2048,
         "path": "/",
@@ -206,7 +206,7 @@
         ],
         "enabled": true,
         "insecure": true,
-        "server_name": "giftpeyman.ali5599.wOrkErs.DEv",
+        "server_name": "onearth.roostashahreiran.ir",
         "utls": {
           "enabled": true,
           "fingerprint": "chrome"
@@ -215,7 +215,7 @@
       "transport": {
         "early_data_header_name": "Sec-WebSocket-Protocol",
         "headers": {
-          "Host": "giftpeyman.ali5599.wOrkErs.DEv"
+          "Host": "onearth.roostashahreiran.ir"
         },
         "path": "/",
         "type": "ws"
