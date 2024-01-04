@@ -1,0 +1,4 @@
+vless://99c83e3b-4c81-458f-915d-b2bc12ff046f@ip-gr3.roostashahreiran.ir:443?encryption=none&security=tls&sni=ip-gr3.roostashahreiran.ir&fp=randomized&type=ws&host=ip-gr3.roostashahreiran.ir&path=%2F%3Fed%3D2048#ip-gr3.roostashahreiran.ir
+vless://99c83e3b-4c81-458f-915d-b2bc12ff046f@ip-gr2.roostashahreiran.ir:443?encryption=none&security=tls&sni=ip-gr2.roostashahreiran.ir&fp=randomized&type=ws&host=ip-gr2.roostashahreiran.ir&path=%2F%3Fed%3D2048#ip-gr2.roostashahreiran.ir
+vless://99c83e3b-4c81-458f-915d-b2bc12ff046f@ip-gr1.roostashahreiran.ir:443?encryption=none&security=tls&sni=ip-gr1.roostashahreiran.ir&fp=randomized&type=ws&host=ip-gr1.roostashahreiran.ir&path=%2F%3Fed%3D2048#ip-gr1.roostashahreiran.ir
+vless://99c83e3b-4c81-458f-915d-b2bc12ff046f@ge.ali5599.workers.dev:443?encryption=none&security=tls&sni=ge.ali5599.workers.dev&fp=randomized&type=ws&host=ge.ali5599.workers.dev&path=%2F%3Fed%3D2048#ge.ali5599.workers.dev
